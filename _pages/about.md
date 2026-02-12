@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="font-size: 20px; font-weight: bold;">Robot Sensing and Control Laboratory, Southeast University. Nanjing 210096.</p> # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p style="font-size: 18px; font-weight: bold;">Robot Sensing and Control Laboratory, Southeast University. Nanjing 210096.</p> # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  width: 160px
   more_info: >
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">xiyuan.zhao@seu.edu.cn</p>
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Southeast University</p>
