@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received the B.E. degree in `Measurement and Control Technology and Instrumentation` from [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022. I am currently working toward the Ph.D. degree in `Instrument Science and Technology (Robotics)` with Southeast University, Nanjing.
+
+My research interests include
+  Human-Robot Interaction
+  Reactive and Sensor-based Planning
+  Multimodal Intention Recognition
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
