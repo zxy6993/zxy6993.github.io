@@ -35,7 +35,9 @@ My research interests include
 - `Human-Robot Interaction (HRI)`
 - `Reactive and Sensor-based Planning`
 - `Multimodal Intention Recognition`
+- `Motion Planning`
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The rapid development of collaborative robots has provided a promising possibility of supprorting the elderly or assisting operators in factories and space experiments. During my Ph.D. program, my research interests include two levels: One is the fundamental research (in planning level) focusing on sensor-based planning under uncertainty for high-DOF manipulators, aiming to intelligent human-robot interaction in real-world and unstructured environments. The other is to advance and realize multimodal interaction/feedback (in interaction level) between human and robots from a systematic perspective.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
