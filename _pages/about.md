@@ -9,9 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>xiyuan.zhao@seu.edu.cn</p>
-    <p>Sipailou campus, Southeast University</p>
-    <p>Nanjing, 210096</p>
+    <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">xiyuan.zhao@seu.edu.cn</p>
+    <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Sipailou Campus, Southeast University</p>
+    <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Nanjing, 210096</p>
+    # <p>xiyuan.zhao@seu.edu.cn</p>
+    # <p>Sipailou campus, Southeast University</p>
+    # <p>Nanjing, 210096</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,9 +33,9 @@ latest_posts:
 I received the B.E. degree in `Measurement and Control Technology and Instrumentation` from [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022. I am currently working toward the Ph.D. degree in `Instrument Science and Technology (Robotics)` with Southeast University, Nanjing.
 
 My research interests include
-- **Human-Robot Interaction (HRI)**
-- **Reactive and Sensor-based Planning**
-- **Multimodal Intention Recognition**
+- `Human-Robot Interaction (HRI)`
+- `Reactive and Sensor-based Planning`
+- `Multimodal Intention Recognition`
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
