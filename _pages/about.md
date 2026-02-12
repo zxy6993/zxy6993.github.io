@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received the B.E. degree in `Measurement and Control Technology and Instrumentation` from [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022. I am currently working toward the Ph.D. degree in `Instrument Science and Technology (Robotics)` with Southeast University, Nanjing.
+I received the B.E. degree in `Measurement and Control Technology and Instrumentation` from [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022, under the supervision of Prof. Huijun Li. I am currently working toward the Ph.D. degree in `Instrument Science and Technology (Robotics)` with Southeast University, under the supervision of Prof. Huijun Li and Prof. Aiguo Song.
 
 My research interests include
 - `Human-Robot Interaction (HRI)`
