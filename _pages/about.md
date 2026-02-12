@@ -9,7 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  width: 120px
+  width: 100px
   more_info: >
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">xiyuan.zhao@seu.edu.cn</p>
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Southeast University</p>
