@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<p style="font-size: 23px; font-weight: bold;">Robot Sensing and Control Laboratory, Southeast University. Nanjing 210096.</p>" # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: |
+  <p style="font-size: 23px; font-weight: bold;">Robot Sensing and Control Laboratory, Southeast University. Nanjing 210096.</p> # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
