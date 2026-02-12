@@ -10,11 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">xiyuan.zhao@seu.edu.cn</p>
-    <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Sipailou Campus, Southeast University</p>
+    <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Southeast University</p>
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Nanjing, 210096</p>
-    # <p>xiyuan.zhao@seu.edu.cn</p>
-    # <p>Sipailou campus, Southeast University</p>
-    # <p>Nanjing, 210096</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
