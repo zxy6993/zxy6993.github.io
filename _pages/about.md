@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  <p style="font-size: 20px; font-weight: bold;">Robot Sensing and Control Laboratory, Southeast University. Nanjing 210096.</p>
+  <p style="font-size: 20px;">Robot Sensing and Control Laboratory, Southeast University.</p>
 
 profile:
   align: right
