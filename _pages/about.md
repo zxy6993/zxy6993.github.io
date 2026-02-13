@@ -22,10 +22,16 @@ social: true # includes social icons at the bottom of the page
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder -->
 
-latest_posts:
+<!-- latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts -->
+
+honors:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 # leave blank to include all the news in the `_news` folder -->
+  
 ---
 
 I received the B.E. degree in `Measurement and Control Technology and Instrumentation` from [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022, under the supervision of Prof. Huijun Li. I am currently working toward the Ph.D. degree in `Instrument Science and Technology (Robotics)` with Southeast University, under the supervision of Prof. Huijun Li and Prof. Aiguo Song.
