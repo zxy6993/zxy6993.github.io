@@ -186,6 +186,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.keywords %}
+      <div class="keywords">
+        <strong>Keywords:</strong> {{ entry.keywords }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
