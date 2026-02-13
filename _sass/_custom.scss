@@ -8,12 +8,24 @@ h1, h2, h3 {
   font-family: 'Playfair Display', serif;
 }
 
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.about-page section {
+  margin-bottom: 60px;
+}
+
 /* .site-title {
   font-weight: 800 !important;
   letter-spacing: 0.5px;
 } */
 
 .profile img {
-  width: 180px !important;   /* 改成你想要的大小，比如 140px / 150px */
+  width: 190px !important;   /* 改成你想要的大小，比如 140px / 150px */
   height: auto;
 }
