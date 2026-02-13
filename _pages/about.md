@@ -47,7 +47,7 @@ The rapid development of collaborative robots has provided a promising possibili
 
 ### [Learning Multimodal Confidence for Intention Recognition in Human-Robot Interaction](https://doi.org/10.1109/LRA.2024.3432352)
 
-**Xiyuan Zhao**, Huijun Li<sup>*</sup>, Tianyuan Miao, Xianyi Zhu, Zhikai Wei, Lifen Tan, and Aiguo Song <br>
+**Xiyuan Zhao**, Huijun Li<sup>\*</sup>, Tianyuan Miao, Xianyi Zhu, Zhikai Wei, Lifen Tan, and Aiguo Song <br>
 *IEEE Robotics and Automation Letters*, 2024 <br>
 **Keywords:** Human Factors and Human-in-the-Loop, Multimodal Confidence Learning for Opinion Pool, Multimodal Perception for HRI
 
