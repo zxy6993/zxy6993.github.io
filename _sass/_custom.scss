@@ -54,4 +54,27 @@ h3 {
   margin-right: 6px;
 }
 
+.about-page .publication {
+  margin-bottom: 25px;
+}
 
+.about-page .publication .preview {
+  display: none;
+}
+
+.about-page .publication .title {
+  font-weight: 600;
+}
+
+.about-page .publication .author {
+  font-size: 0.95rem;
+}
+
+.about-page .publication .periodical {
+  font-style: italic;
+}
+
+.about-page .publication .keywords {
+  color: #777;
+  font-size: 0.9rem;
+}
