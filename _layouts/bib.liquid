@@ -188,7 +188,10 @@
     </div>
     {% if entry.keywords %}
       <div class="keywords">
-        <strong>Keywords:</strong> {{ entry.keywords }}
+        {% assign keys = entry.keywords | split: ',' %}
+        {% for key in keys %}
+          <span>{{ key }}</span>
+        {% endfor %}
       </div>
     {% endif %}
 
