@@ -286,9 +286,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
-
+  last_name: Xiyuan
+  first_name: Zhao
   style: apa
   locale: en
 
