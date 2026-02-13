@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: |
   <p style="font-size: 20px;">Robot Sensing and Control Laboratory, Southeast University.</p>
@@ -9,7 +9,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  width: 80px
   more_info: >
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">xiyuan.zhao@seu.edu.cn</p>
     <p style="font-family: 'Georgia', serif; font-size: 16px; font-weight: normal;">Southeast University</p>
