@@ -30,13 +30,13 @@ h3 {
   letter-spacing: 1px;
   opacity: 0.9;
   margin-top: 15px;
-  margin-left: 15px;
+  padding-left: 20px;
 }
 
 h3 + p,
 h3 + p + p,
 h3 + p + p + p {
-  margin-left: 15px;
+  padding-left: 20px;
 }
 
 .about-page section {
