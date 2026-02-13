@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Recent Publications",
+          description: "The Recent Publications of Our Research Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
