@@ -44,7 +44,7 @@ The rapid development of collaborative robots has provided a promising possibili
 - **The 9-th National University Student Biomedical Engineering Innovation Design Competition**, Third Prize, Chinese Society of Biomedical Engineering (2024)
 
 ## Selected Publications
-[Learning Multimodal Confidence for Intention Recognition in Human-Robot Interaction](10.1109/LRA.2024.3432352)
+### [Learning Multimodal Confidence for Intention Recognition in Human-Robot Interaction](10.1109/LRA.2024.3432352)
 **Xiyuan Zhao**, Huijun Li*, Tianyuan Miao, Xianyi Zhu, Zhikai Wei, Lifen Tan, and Aiguo Song
 IEEE Robotics and Automation Letters, 2024
 Keywords
