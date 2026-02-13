@@ -3,8 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: xiyuan.zhao@seu.edu.cn # your email address
-github: https://github.com/zxy6993
-orcid: 0009-0008-6492-5666
+# github: https://github.com/zxy6993
+# orcid: 0009-0008-6492-5666
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
